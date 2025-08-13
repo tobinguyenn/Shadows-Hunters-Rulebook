@@ -31,8 +31,6 @@ If both dice show the same number during an attack (damage = 0), the attacker su
 
 When a defender takes damage and their **remaining HP** (after all calculations) is at or below the execution threshold for their base HP:
 
-> Each player may only attempt **Coup de Grâce** once per game.
-
 | Base HP | Execution threshold |
 | ------- | ------------------- |
 | 10 - 11 | 1 HP or less        |
@@ -42,6 +40,11 @@ When a defender takes damage and their **remaining HP** (after all calculations)
 
 1. The attacker may immediately roll **two separate 1d6**.
 2. If **both rolls** result in **6**, the defender is instantly **eliminated** from the game regardless of remaining HP.
+
+### Restriction
+
+- Coup de Grâce can only be triggered **immediately** after the attacker deals damage and the defender’s HP drops to the trigger threshold. If this condition is not met at that exact moment, the effect **cannot** be activated later. This ability can only be declared on the same turn — once the **Attack Phase ends**, it cannot be declared even if the defender’s HP meets the threshold.
+- Each player may only attempt Coup de Grâce **once per defender per game**.
 
 ### Example
 
@@ -69,18 +72,18 @@ When activated, the defender immediately makes a free counterattack against the 
 
 A defensive maneuver that can be activated by the **defender** once per game when targeted by an **attack**.
 
-### Activation
+**Activation**
 
 - Defender declares **Blur** before the attacker rolls any dice.
 
-### Resolution
+**Resolution**
 
 - Attacker rolls for damage **before applying Equipment or any additional damage bonuses**.
 - Defender immediately rolls the same type of die used by the attacker (e.g., 1d6 if attacker rolled 1d6).
 - If the defender’s roll is **equal to or higher** than the attacker’s roll, the attack is declared **missed** and the attacker’s turn ends immediately.
 - If the defender’s roll is **lower**, the attack continues as normal, applying Equipment and other bonuses to the attacker’s damage.
 
-### Restrictions
+**Restrictions**
 
 - Blur only works against **attacks**, not damage from cards, Areas, or abilities.
 - May only be used **once per game** per player.

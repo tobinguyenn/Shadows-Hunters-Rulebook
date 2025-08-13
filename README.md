@@ -36,13 +36,6 @@ Roles are hidden at the start of the game. Players use deduction, deception, and
 - Provide **indirect clues** about a player's faction.
 - Effects depend on the target's faction and are resolved **secretly**.
 
-> **Note**: Some Hermit cards mention specific base-game character names (e.g., “If your character is Alice or Byron…”). When playing with expansion characters, treat these as referring to **any character whose name begins with the same first letter**.
->
-> Example:
->
-> - "Alice" → Any character starting with **A**.
-> - "Byron" → Any character starting with **B**.
-
 ---
 
 ### Equipment
@@ -118,9 +111,9 @@ Cards that are played once for an immediate effect, then discarded.
 
 ## 6. Turn Sequence
 
-The game proceeds in clockwise order. On your turn, perform these steps in order:
+The game proceeds in clockwise order. On your turn, perform these phases, **Move Phase** always go first
 
-### Step 1: Move
+### Move Phase
 
 - Roll **one 4-sided die (d4)** and **one 6-sided die (d6)**.
 - Add the results to find your **movement total**.
@@ -130,7 +123,7 @@ The game proceeds in clockwise order. On your turn, perform these steps in order
   - If your roll matches your current Area's number, reroll both dice until you get a different number.
 - After moving, immediately **apply the effect** of your new Area.
 
-### Step 2: Attack (Optional)
+### Attack Phase (Optional)
 
 - You may choose to attack **one player** who is:
   - In the **same Area** as you, or
@@ -140,7 +133,7 @@ The game proceeds in clockwise order. On your turn, perform these steps in order
   - If both dice show the same number, damage is **0**.
 - The defender reduces their HP by the damage amount.
 
-### Step 3: Use Abilities (Optional)
+### Abilities Phase (Optional)
 
 - Some characters have special abilities that can be activated under specific conditions.
 - Abilities may occur before or after attacking, depending on the card text.
